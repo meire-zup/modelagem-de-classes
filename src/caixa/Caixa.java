@@ -19,5 +19,4 @@ public class Caixa {
         this.saldo = this.saldo - valor;
     }
 
-
 }

@@ -5,28 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6653824f-be88-4d80-894b-bdedf88d2674" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modelagem-de-classes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bola/Bola.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bola/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/caixa/Caixa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/caixa/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/carro/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/carro/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/contaCorrente/ContaCorrente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/contaCorrente/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jardinagem/Jardinagem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jardinagem/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pessoa/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pessoa/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/quadrado/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/quadrado/Quadrado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/retangulo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/retangulo/Retangulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bola/Bola.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bola/Bola.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/caixa/Caixa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/caixa/Caixa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/caixa/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/caixa/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pessoa/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pessoa/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/quadrado/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quadrado/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/retangulo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/retangulo/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +27,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2R73DhzRuAMwasMFGdkKAgjO6k2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />

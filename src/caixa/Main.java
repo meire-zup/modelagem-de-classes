@@ -10,7 +10,7 @@ public class Main {
         Caixa caixa = new Caixa();
         System.out.println(caixa.saldo);
 
-        System.out.println("Informe a quantidade de lançamentos deseja realizar:");
+        System.out.println("Informe a quantidade de lançamentos que deseja realizar:");
 
         int quantidadeLancamento;
 
