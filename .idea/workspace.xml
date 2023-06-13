@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6653824f-be88-4d80-894b-bdedf88d2674" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modelagem-de-classes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bola/Bola.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bola/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/caixa/Caixa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/caixa/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/carro/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/carro/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/contaCorrente/ContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/contaCorrente/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jardinagem/Jardinagem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jardinagem/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pessoa/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pessoa/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quadrado/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quadrado/Quadrado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/retangulo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/retangulo/Retangulo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2R73DhzRuAMwasMFGdkKAgjO6k2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/jucemeire.lopes/IdeaProjects/modelagem-de-classes/src/Main.java&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6653824f-be88-4d80-894b-bdedf88d2674" name="Changes" comment="" />
+      <created>1686587177504</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686587177504</updated>
+    </task>
+    <servers />
+  </component>
+</project>
